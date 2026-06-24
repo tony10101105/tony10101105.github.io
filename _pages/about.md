@@ -11,6 +11,8 @@ Hello. I am an incoming DPhil student at the University of Oxford. I work on AI 
 
 [My CV](/files/Tung-Yu Wu - CV.pdf)
 
+For anything to discuss, feel free to [book a meeting with me](https://cal.eu/tony-wu-igavpq).
+
 Featured Publications
 ------
 

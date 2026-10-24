@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am an incoming DPhil student at the University of Oxford. I work on AI safety and interpretability. My research focuses on how intelligence emerges and evolves in AI models through interaction with the world, and how to ensure that these systems remain aligned with and beneficial to humanity.
+Hello. I am an first-year DPhil student at the University of Oxford. I work on AI safety and interpretability. My research focuses on how intelligence emerges and evolves in AI models through interaction with the world, and how to ensure that these systems remain aligned with and beneficial to humanity. I am fortunate to be supervised by [Fazl Barez](https://fazlbarez.com/) and [Maike Osborne](https://maikeosborne.com/).
 
 [My CV](/files/Tung-Yu Wu - CV.pdf)
-
-For anything to discuss, feel free to [book a meeting with me](https://cal.eu/tony-wu-igavpq).
 
 Featured Publications
 ------

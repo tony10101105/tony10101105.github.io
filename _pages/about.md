@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am an first-year DPhil student at the University of Oxford. I work on AI safety and interpretability. My research focuses on how intelligence emerges and evolves in AI models through interaction with the world, and how to ensure that these systems remain aligned with and beneficial to humanity. I am fortunate to be supervised by [Fazl Barez](https://fazlbarez.com/) and [Maike Osborne](https://maikeosborne.com/).
+Hello. I am a first-year DPhil student at the University of Oxford. I work on AI safety and interpretability. My research focuses on how intelligence emerges and evolves in AI models through interaction with the world, and how to ensure these systems remain aligned with and beneficial to humanity. I am fortunate to be supervised by [Fazl Barez](https://fazlbarez.com/) and [Maike Osborne](https://maikeosborne.com/).
 
 [My CV](/files/Tung-Yu Wu - CV.pdf)
 
@@ -20,7 +20,7 @@ Featured Publications
 
 **[Chain-of-Thought Is Not Explainability](https://aigi.ox.ac.uk/wp-content/uploads/2025/07/Cot_Is_Not_Explainability.pdf)**  
 Fazl Barez, **Tung-Yu Wu**, Iván Arcuschin, Michael Lan, Vincent Wang, Noah Siegel, Nicolas Collignon, Clement Neo, Isabelle Lee, Alasdair Paren, Adel Bibi, Robert Trager, Damiano Fornasiere, John Yan, Yanai Elazar, Yoshua Bengio  
-*Preprint*, 2025
+*Conference on Neural Information Processing Systems (NeurIPS) Position Paper Track*, 2026
 
 **[U-shaped and Inverted-U Scaling behind Emergent Abilities of Large Language Models](https://openreview.net/forum?id=pQSdAoIiHU)**  
 **Tung-Yu Wu**, Pei-Yu Lo  

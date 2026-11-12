@@ -14,6 +14,12 @@ Hello. I am a first-year DPhil student at the University of Oxford. I work on AI
 Featured Publications
 ------
 
+\* denotes equal contribution.
+
+**[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438)**  
+Fazl Barez\*, **Tung-Yu Wu\***, et al.  
+*arXiv preprint arXiv:2611.08438*, 2026
+
 **[Query Circuits: Explaining How Language Models Answer User Prompts](https://arxiv.org/abs/2509.24808)**  
 **Tung-Yu Wu**, Fazl Barez  
 *International Conference on Machine Learning (ICML)*, 2026
@@ -27,7 +33,7 @@ Fazl Barez, **Tung-Yu Wu**, Iván Arcuschin, Michael Lan, Vincent Wang, Noah Sie
 *International Conference on Learning Representations (ICLR)*, 2025 & **Oral Presentation** at NeurIPS'24 Workshop on Attributing Model Behavior at Scale (ATTRIB)
 
 **[AND: Audio Network Dissection for Interpreting Deep Acoustic Models](https://proceedings.mlr.press/v235/wu24ac.html)**  
-**Tung-Yu Wu**, Yu-Xiang Lin, Tsui-Wei Weng  
+**Tung-Yu Wu\***, Yu-Xiang Lin\*, Tsui-Wei Weng  
 *International Conference on Machine Learning (ICML)*, 2024
 
 For my other publications, please see my [Google Scholar](https://scholar.google.com/citations?user=Zx1YxFgAAAAJ&hl=en&oi=ao).
